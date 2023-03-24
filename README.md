@@ -8,15 +8,15 @@ A 2D platformer including a player, platforms, and enemies, along with some othe
 Which features you included
 
 ## References
-Platforms: https://www.kenney.nl/assets/scribble-platformer
+  Platforms: https://www.kenney.nl/assets/scribble-platformer
 
-Coins: https://www.kenney.nl/assets/puzzle-pack-2
+  Coins: https://www.kenney.nl/assets/puzzle-pack-2
 
-Jump Sound Effect: https://soundbible.com/1601-Mario-Jumping.html#google_vignette
+  Jump Sound Effect: https://soundbible.com/1601-Mario-Jumping.html#google_vignette
 
-RPG Sounds: https://www.kenney.nl/assets/rpg-audio
+  RPG Sounds: https://www.kenney.nl/assets/rpg-audio
 
-Music: "Kiss and Goodbye" from Patrick de Arteaga (https://patrickdearteaga.com/royalty-free-music/kiss-and-goodbye/)
+  Music: "Kiss and Goodbye" from Patrick de Arteaga (https://patrickdearteaga.com/royalty-free-music/kiss-and-goodbye/)
 
 ## Future Development
 N/A
