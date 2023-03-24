@@ -1,14 +1,17 @@
-# Project Name
+# 2D Platformer
 
-Context and date
+Created as a project for Game Design (MSCH-C220) at IU, 3/24/2023
 
-Description
+A 2D platformer including a player, platforms, and enemies, along with some other minor features. 
 
 ## Implementation
 Which features you included
 
 ## References
 
+
 ## Future Development
+N/A
 
 ## Created by
+Taylor Braunsdorf
