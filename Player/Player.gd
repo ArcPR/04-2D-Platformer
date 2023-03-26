@@ -20,7 +20,7 @@ export var max_leap = 1200
 var moving = false
 var is_jumping = false
 var double_jumped = false
-var should_direction_flip = true # wether or not player controls (left/right) can flip the player sprite
+var should_direction_flip = true # whether or not player controls (left/right) can flip the player sprite
 
 
 func _physics_process(_delta):
