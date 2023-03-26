@@ -9,12 +9,10 @@ Which features you included
 
 ## References
   Platforms and Enemy Sprite(s): https://www.kenney.nl/assets/scribble-platformer
+  
+  RPG Sounds: https://www.kenney.nl/assets/rpg-audio
 
   Coins: https://www.kenney.nl/assets/puzzle-pack-2
-
-  Jump Sound Effect: https://soundbible.com/1601-Mario-Jumping.html#google_vignette
-
-  RPG Sounds: https://www.kenney.nl/assets/rpg-audio
 
   Music: "Kiss and Goodbye" from Patrick de Arteaga (https://patrickdearteaga.com/royalty-free-music/kiss-and-goodbye/)
 
