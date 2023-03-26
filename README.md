@@ -8,7 +8,7 @@ A 2D platformer including a player, platforms, and enemies, along with some othe
 Which features you included
 
 ## References
-  Platforms: https://www.kenney.nl/assets/scribble-platformer
+  Platforms and Enemy Sprite(s): https://www.kenney.nl/assets/scribble-platformer
 
   Coins: https://www.kenney.nl/assets/puzzle-pack-2
 
