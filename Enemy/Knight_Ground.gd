@@ -7,11 +7,18 @@ var velocity = Vector2.ZERO
 
 
 func _physics_process(_delta):
+	if direction < 0 and !$Sprite.flip_h:
+		$Sprite.flip_h = true
+	if direction > 0 and $Sprite.flip_h:
+		$Sprite.flip_h = false
+
 	velocity.x += direction * speed
-	move_and_slide_with_snap(velocity, Vector2.UP)
-	for i in get_slide_count():
-		var collision = get_slide_collision(i)
-		if collision.collider.name == "Platform" or collision.collider.name == "Ground":
-			velocity.x = 0
-			direction += -1
-			
+	move_and_slide(velocity, Vector2.UP)
+
+func _on_Area2D_body_entered(body):
+	print(body.name)
+	if velocity.x != 0 and (body.name == "Platform" or body.name == "Ground"):
+		velocity.x = 0
+		direction *= -1
+	if body.name == "Player":
+		body.do_damage(damage)
