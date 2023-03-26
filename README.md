@@ -9,8 +9,6 @@ Which features you included
 
 ## References
   Platforms and Enemy Sprite(s): https://www.kenney.nl/assets/scribble-platformer
-  
-  RPG Sounds: https://www.kenney.nl/assets/rpg-audio
 
   Coins: https://www.kenney.nl/assets/puzzle-pack-2
 
