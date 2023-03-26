@@ -5,7 +5,7 @@ Created as a project for Game Design (MSCH-C220) at IU, 3/24/2023
 A 2D platformer including a player, platforms, and enemies, along with some other minor features. 
 
 ## Implementation
-Which features you included
+Basic 2D platformer. Includes a character controlled by the player, 2 enemies, and a save/load system. 
 
 ## References
   Platforms and Enemy Sprite(s): https://www.kenney.nl/assets/scribble-platformer
